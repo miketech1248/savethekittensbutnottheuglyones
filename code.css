@@ -1,8 +1,19 @@
 article {
-	font-size: 35px;
+	font-size: 55px;
+	text-align: center;
+	width:fit-content;
+	border: dashed 5px;
 }
 
-body > p {
-	font-size: 25px;
+p {
+	font-size: 30px;
+	text-align: center;
+	width:fit-content;
+	margin:	0;
+	
 }
 
+div.body-div {
+	display: block;
+	border: dashed 5px;
+}
